@@ -1,0 +1,23 @@
+---
+layout: single
+title:  "Travis CI"
+date:   2018-07-09 18:33:52 +0900
+categories: jekyll update
+---
+
+![Fish-Bone]({{ "/assets/fish-bone.jpg" | absolute_url }})
+
+1. Core Concepts for Beginners
+ - What is Continuous Integration (CI)? #
+ - CI builds and automation: building, testing, deploying #
+ - Builds, Jobs, Stages and Phases
+ - Breaking the Build #
+ - Infrastructure and environment notes #
+
+ 2. Getting Started
+ - Prerequisites #
+ - To get started with Travis CI #
+ - Selecting a different programming language #
+ - Selecting infrastructure (optional) #
+ - More than running tests #
+ - Further Reading #
